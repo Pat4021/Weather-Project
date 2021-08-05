@@ -92,4 +92,8 @@ color: rgb(83, 48, 48);
 font-size: 24px;
 
 }
+.openSource {
+  display: block;
+  margin : 0 auto;
+}
 
