@@ -1,0 +1,99 @@
+h1 {
+  color: rgb(83, 48, 48);
+  font-size: 48px;
+}
+#wrap {
+  position: relative;
+  padding: 20px 40px;
+  margin: 20px 30px;
+  border: 1px solid whitesmoke;
+  border-radius: 10px;
+  box-shadow: 5px 5px 10px rgba(36, 35, 35, 0.4);
+  background-image: url("weather.jpg");
+}
+#first {
+  border: 1px solid whitesmoke;
+  border-radius: 10px;
+  box-shadow: 5px 5px 10px rgba(36, 35, 35, 0.4);
+}
+.emoji {
+  position: relative;
+  top: 30px;
+  font-size: 100px;
+}
+.london {
+  text-align: right;
+  left: 800px;
+  font-size: 60px;
+  font-weight: 500;
+}
+.country {
+  text-align: right;
+  top: -300;
+  left: 850px;
+  font-size: 40px;
+  font-weight: 300;
+}
+.cloud {
+  position: relative;
+  top: -135px;
+}
+.date {
+  text-align: right;
+  left: 800px;
+  font-size: 30px;
+  font-weight: 300;
+}
+.square {
+  position: relative;
+  top: -130px;
+}
+.card-title {
+  color: rgb(252, 181, 181);
+  font-size: 42px;
+  font-weight: 800;
+}
+.card-body {
+  text-align: center;
+  background-image: linear-gradient(
+      rgba(0, 0, 255, 0.5),
+      rgba(255, 255, 0, 0.5)
+    ),
+    url("weather.jpg");
+}
+.card-text {
+  color: rgb(160, 89, 89);
+  font-size: 50px;
+  font-weight: 300;
+}
+.fa-search {
+  position: relative;
+  top: -130px;
+  right: -170;
+}
+.grey{
+  color:ghostwhite;
+  background: rgb(240, 147, 147);
+  position: relative;
+  top: -130px;
+}
+.grey:hover{
+  color: rgb(240, 147, 147);
+  background:ghostwhite;
+  transition: background-color 1s;
+}
+#celcius{
+  color: rgb(83, 48, 48);
+  font-size: 24px;
+
+}
+#farenheit{
+color: rgb(83, 48, 48);
+font-size: 24px;
+
+}
+.openSource {
+  display: block;
+  margin : 0 auto;
+}
+
